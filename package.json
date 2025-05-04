@@ -2,6 +2,8 @@
   "name": "generador-nombres",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "author": "Javier Echeverri",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
