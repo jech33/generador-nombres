@@ -1,16 +1,16 @@
-📛 Generador de Nombres
+## 📛 Generador de Nombres
 A fast, minimal site that generates random names for brands, babies, characters, and more — built with Next.js App Router, optimized for SEO and ready for monetization via AdSense.
 
-🔧 Tech Stack
-Next.js (App Router)
+### 🔧 Tech Stack
+- Next.js (App Router)
 
-Tailwind CSS
+- Tailwind CSS
 
-SEO meta tags
+- SEO meta tags
 
-Google Analytics + Ads placeholder
+- Google Analytics + Ads placeholder
 
-Simple UI components for fast iteration
+- Simple UI components for fast iteration
 
 ## Getting Started
 
